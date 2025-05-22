@@ -1,2 +1,2 @@
 # Jogo-da-nave
-Esse é um jogo em python usando a biblioteca pygame. ele não esta terminado ainda, pois contem alguns bugs
+Esse é um jogo em python usando a biblioteca pygame. ele ainda nao esta finalizado, pois contem alguns bugs
